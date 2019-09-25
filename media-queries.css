@@ -136,11 +136,9 @@
   .text h1 {
     font-size: 4em;
     margin-top: 17px;
-    margin-left: -0.7em;
   }
   .text p {
     margin-top: 15px;
-    margin-left: -2.5em;
     width: 32em;
   }
 }
